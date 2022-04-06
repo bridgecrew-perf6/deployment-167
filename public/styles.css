@@ -3,11 +3,12 @@ header {
     background-color: black;
     text-align: center;
     font-size: xx-large;
+    font-style: bold;
 }
 
-/* h1 {
+h1 {
     color: whitesmoke;
-    background-color: black;
     text-align: center;
-    font-size: xx-large;   
-} */
+    font-size: xx-large;
+    font-style: bold;  
+}
