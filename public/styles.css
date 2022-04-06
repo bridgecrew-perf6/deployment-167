@@ -6,9 +6,17 @@ header {
     font-style: bold;
 }
 
+body {
+    background-color: black;
+}
+
 h1 {
-    color: black;
+    color: whitesmoke;
     text-align: center;
     font-size: xx-large;
     font-style: bold;  
+}
+
+img {
+    size: 200px;
 }
