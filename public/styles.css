@@ -18,6 +18,8 @@ h1, h2, h3, h4 {
 }
 
 img {
+    position: relative;
+    left: 50px;
     border: 2px solid black;
     border-radius: 35%;
     height: 300px;
