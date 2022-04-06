@@ -18,5 +18,8 @@ h1 {
 }
 
 img {
-    size: 80px;
+    border: 2px solid black;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
 }
